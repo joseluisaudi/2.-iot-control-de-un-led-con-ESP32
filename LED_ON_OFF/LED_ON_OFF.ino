@@ -1,6 +1,8 @@
 // Definición del pin GPIO asignado para el LED.
 // Según las instrucciones de la actividad, se utiliza específicamente el
 // GPIO 22.
+// Este código es hecho por LA IA de gavity con ayuda de mi persona
+// Esta carpeta se cambió segun el toque de la música, es también una prueba
 const int ledPin = 22;
 
 // Configuración inicial del microcontrolador.
